@@ -1,2 +1,2 @@
 # FlexBlog
-Projeto para estudo de CSS Flexbox
+Projeto para estudo/revisão de CSS Flexbox, seguindo orientações do curso Origamid.
